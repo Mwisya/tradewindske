@@ -1,0 +1,43 @@
+.whychooseus{
+    width: 100%;
+    display: flex;
+    gap: 1rem;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 2rem;
+    transition: all 300ms ease;
+}
+
+.whychooseus-card{
+    width: 40%;
+    padding: 1rem;
+    background-color: rgb(99, 97, 97,0.1);
+}
+.whychooseus-card > h3{
+    color: brown;
+    font-weight: 900;
+}
+
+.whychooseus-card:hover{
+    background-color: rgb(99, 97, 97,0.3);
+
+
+}
+
+@media screen and (max-width:1050px) {
+    .whychooseus-card{
+        width: 60%;
+        
+    }
+    
+}
+@media screen and (max-width:800px) {
+    .whychooseus-card{
+        width: 90%;
+        padding: 2rem;
+        font-size: 12px;
+        font-weight: 400;
+       
+    }
+}

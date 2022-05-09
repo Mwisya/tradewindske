@@ -1,0 +1,39 @@
+.about{
+    text-align: center;
+    background-color: rgba(6, 6, 63,1);
+    padding-bottom: 2rem;
+}
+
+.about > h3{
+    color: goldenrod;
+    font-weight: 900;
+}
+
+article{
+    text-indent: 1rem;
+    width: 60%;
+    margin: 0 auto;
+    padding:1rem;
+    line-height: 1.7;
+    text-align: justify;
+    color: whitesmoke;
+    
+}
+
+@media screen and (max-width:1050px){
+    article{
+        width: 90%;
+        margin: 0 auto;
+        font-size: 14px;
+    }
+    
+}
+
+
+@media screen and (max-width:800px){
+    article{
+        width: 100%;
+        font-size: 12px;
+    }
+    
+}
