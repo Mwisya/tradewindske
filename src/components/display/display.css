@@ -10,7 +10,7 @@
 
 .display > h3{
     color: white;
-    font-weight: 700;
+    font-weight: 900;
     font-size: 1.5rem;
     position: absolute;
     top: 5rem;
@@ -46,7 +46,8 @@
         
     }
     .display > h3{
-        font-size: 1.2rem;
+        font-size: 1.3rem;
+        font-weight: 900;
         position: absolute;
         top: 5rem;
         left: 5rem;

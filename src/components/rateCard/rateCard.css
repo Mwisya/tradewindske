@@ -85,6 +85,11 @@ button{
     margin-top: 2rem;
     border-radius: 10px;
 }
+.rate-card1 > button{
+    background-color: white;
+    margin-bottom: 1rem;
+}
+
 
 .rate-card1 > button > a{
     color: crimson;
@@ -130,7 +135,7 @@ button > a{
     }
 
     ul > li{
-        font-size: 12px;
+        font-size: 13px;
     }
 
     button{

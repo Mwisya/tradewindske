@@ -15,8 +15,9 @@ const RateCard = () => {
           <ul>
             <li>5 Page Simple Website</li>
             <li>4 Days Delivery Time</li>
-            <li>Mobile Friendly website</li>
+            <li>Good UI/UX</li>
             <li>Basic Contact Form</li>
+            <li>Mobile Friendly website</li>
             <li>Suitable for Small Business and Personal Website</li>
           </ul>
 
@@ -28,12 +29,12 @@ const RateCard = () => {
           <h5>One time fee</h5>
           <ul>
             <li>1 week delivery</li>
-            <li>Classic features  transition effects</li>
+            <li>Up to 12 Website pages</li>
             <li>Mobile friendly Website</li>
             <li>Media responsive</li>
-            <li>Greate UI/UX design</li>
-            <li>Improved Website Functionality</li>
-            <li>Up to 12 Website pages</li>
+            <li>Awesome UI/UX design</li>
+            <li>Web smooth transition effects</li>
+            <li>Improved Website Functionality and features</li>
             <li>Elegant Appearance</li>
             <li>Social media integration</li>
             <li>Google maps integration</li>
@@ -52,7 +53,8 @@ const RateCard = () => {
             <li>All media responsive</li>
             <li>Elegant UI/UX design</li>
             <li>Improved Functionality and features</li>
-            <li>Advanced features and transition effects</li>
+            <li>transition effects</li>
+            <li>Greate animations and effects </li>
             <li>Smooth and Iconic navigation</li>
             <li>Social media integration</li>
             <li>Google maps integration</li>

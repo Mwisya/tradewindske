@@ -8,7 +8,7 @@ nav{
     gap: 1rem;
 
     color: crimson;
-    background-color: rgba(0,0,0, 0.5);
+    background-color: #00000080;
     padding: 1rem;
     border-radius: 50px;
     z-index: 2;
