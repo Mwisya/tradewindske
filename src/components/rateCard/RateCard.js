@@ -10,7 +10,7 @@ const RateCard = () => {
 
         <div className="rate-card1">
           <h3>Startup</h3>
-          <h4>Ksh 12,000</h4>
+          <h4>Ksh 15,000</h4>
           <h5>One time fee</h5>
           <ul>
             <li>5 Page Simple Website</li>
@@ -25,7 +25,7 @@ const RateCard = () => {
         </div>
         <div className="rate-card2">
           <h3>Standard</h3>
-          <h4>Ksh 20,000</h4>
+          <h4>Ksh 30,000</h4>
           <h5>One time fee</h5>
           <ul>
             <li>1 week delivery</li>
@@ -36,6 +36,7 @@ const RateCard = () => {
             <li>Web smooth transition effects</li>
             <li>Improved Website Functionality and features</li>
             <li>Elegant Appearance</li>
+            <li>Email form</li>
             <li>Social media integration</li>
             <li>Google maps integration</li>
             <li>M-pesa integration</li>
@@ -45,13 +46,14 @@ const RateCard = () => {
         </div>
         <div className="rate-card3">
           <h3>Advanced</h3>
-          <h4>Ksh 30,000</h4>
+          <h4>Ksh 40,000</h4>
           <h5>One time fee</h5>
           <ul>
             <li>Unlimited pages</li>
             <li>Improved data form</li>
             <li>All media responsive</li>
             <li>Elegant UI/UX design</li>
+            <li>Email form</li>
             <li>Improved Functionality and features</li>
             <li>transition effects</li>
             <li>Greate animations and effects </li>
