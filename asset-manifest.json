@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/tradewindske/static/css/main.69adeca6.css",
-    "main.js": "/tradewindske/static/js/main.a6767d15.js",
+    "main.js": "/tradewindske/static/js/main.df9ce542.js",
     "static/js/787.abc95e0d.chunk.js": "/tradewindske/static/js/787.abc95e0d.chunk.js",
     "static/media/computer.jpg": "/tradewindske/static/media/computer.3dc440fd0af41e4e9e9c.jpg",
     "index.html": "/tradewindske/index.html",
     "main.69adeca6.css.map": "/tradewindske/static/css/main.69adeca6.css.map",
-    "main.a6767d15.js.map": "/tradewindske/static/js/main.a6767d15.js.map",
+    "main.df9ce542.js.map": "/tradewindske/static/js/main.df9ce542.js.map",
     "787.abc95e0d.chunk.js.map": "/tradewindske/static/js/787.abc95e0d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.69adeca6.css",
-    "static/js/main.a6767d15.js"
+    "static/js/main.df9ce542.js"
   ]
 }
