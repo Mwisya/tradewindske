@@ -6,7 +6,7 @@ const Display = () => {
     <div id='home' className='display-container'>
       <div className='display'>
         <img src={computer} alt="" />
-        <h3>Your day today website solution, light up your business with endless posibilities</h3>
+        <h1>Your day today website solution, light up your business with endless posibilities</h1>
       </div>
     </div>
   )

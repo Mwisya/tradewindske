@@ -12,6 +12,7 @@
     gap: 1rem;
     align-items: center;
     padding: 1rem 0;
+    height:max-content;
 }
 
 .rate-card1, .rate-card2,.rate-card3{
@@ -45,7 +46,7 @@
 
 .rate-card2{
     width: 80%;
-    height: max-content;
+    min-height: 43rem;
     background-color: rgba(21, 21, 175, 0.6);
     color: white;
     height: 37rem;
@@ -59,7 +60,7 @@
 .rate-card3{
     padding: 1rem;
     width: 80%;
-    height: 40rem;
+    min-height: 45rem;
     background-color: rgba(0, 0, 0, 0.5);
     color: white;
     margin-bottom: 2rem;
