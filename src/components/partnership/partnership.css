@@ -8,8 +8,13 @@
     height: max-content;
     
 }
+.partnerships > h2{
+    margin-bottom: 1rem;
+}
+
 .partner{
-    width: 20%;
+    width: 10%;
+    margin-bottom: 1rem;
     display: flex;
     align-items: center;
     justify-content: center;

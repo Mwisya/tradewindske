@@ -1,6 +1,6 @@
-
 .bg{
     background-color: rgb(8, 8, 85);
+  
 }
 
 .bg > h2{
@@ -46,7 +46,7 @@
 
 .rate-card2{
     width: 80%;
-    min-height: 43rem;
+    min-height: 45rem;
     background-color: rgba(21, 21, 175, 0.6);
     color: white;
     height: 37rem;
@@ -79,6 +79,10 @@ ul{
     display: flex;
     flex-direction: column;
     gap: 1rem;
+}
+
+ul> li{
+    font-size: 14px;
 }
 button{
     font-weight: 900;

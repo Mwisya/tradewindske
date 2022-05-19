@@ -1,7 +1,9 @@
 header{
+    width: 100vw;
     padding: 2rem;
     background-color: rgb(6, 6, 58);
     text-align: center;
+
 }
 
 header > h2{

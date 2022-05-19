@@ -11,12 +11,13 @@
 
 article{
     text-indent: 1rem;
-    width: 60%;
+    width: 65%;
     margin: 0 auto;
     padding:1rem;
-    line-height: 1.7;
+    line-height: 2;
     text-align: justify;
     color: whitesmoke;
+    font-size: 14px;
     
 }
 
